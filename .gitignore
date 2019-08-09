@@ -1,5 +1,8 @@
 # Raw data directory
-raw_data/
+raw_data
+#sensitive data
+
+hello_world
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
